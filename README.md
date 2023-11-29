@@ -1,0 +1,1 @@
+Thisi is a 25 + 5 clock coded in typescript and styled in CSS.
